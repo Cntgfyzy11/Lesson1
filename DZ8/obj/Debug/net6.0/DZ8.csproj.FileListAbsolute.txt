@@ -1,0 +1,15 @@
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.csproj.AssemblyReference.cache
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.AssemblyInfoInputs.cache
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.AssemblyInfo.cs
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.csproj.CoreCompileInputs.cache
+C:\Users\Эмма\Desktop\Lesson1\DZ8\bin\Debug\net6.0\DZ8.exe
+C:\Users\Эмма\Desktop\Lesson1\DZ8\bin\Debug\net6.0\DZ8.deps.json
+C:\Users\Эмма\Desktop\Lesson1\DZ8\bin\Debug\net6.0\DZ8.runtimeconfig.json
+C:\Users\Эмма\Desktop\Lesson1\DZ8\bin\Debug\net6.0\DZ8.dll
+C:\Users\Эмма\Desktop\Lesson1\DZ8\bin\Debug\net6.0\DZ8.pdb
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.dll
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\refint\DZ8.dll
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.pdb
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\DZ8.genruntimeconfig.cache
+C:\Users\Эмма\Desktop\Lesson1\DZ8\obj\Debug\net6.0\ref\DZ8.dll
